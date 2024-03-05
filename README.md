@@ -28,7 +28,7 @@
 
 ##Description: 
 This project is a simple web-based to-do list application. It allows users to add tasks, mark them as completed, delete tasks, and organize tasks by categories.
-
+<br><br>
 ##Table of Contents:
 
     Introduction
@@ -38,7 +38,9 @@ This project is a simple web-based to-do list application. It allows users to ad
     Contributing
     License
 
-##Introduction:
+<br><br>
+
+#Introduction:
 
 The To-Do List Project is designed to help users organize their tasks efficiently. It provides a clean and intuitive interface for managing tasks effectively.
 Features
@@ -48,11 +50,15 @@ Features
     Delete tasks: Users can delete tasks individually by clicking the delete button next to each task or clear all tasks at once.
     Organize tasks by categories: Users can categorize tasks into different categories for better organization.
 
+<br><br>
+
 ##Technologies Used:
 
     HTML: Used for structuring the web page.
     CSS: Used for styling the user interface and making it visually appealing.
     JavaScript: Used for implementing the interactive features of the to-do list.
+
+<br><br>
 
 ##Usage:
 
@@ -69,7 +75,9 @@ Features
     Organizing Tasks by Categories:
         You can group tasks by categories using tags or labels.
 
-##Contributing:
+<br><br>
+
+#Contributing:
 Contributions to the To-Do List Project are welcome! If you find any bugs or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
 -------------------------------------------------------------------------------*****---------------------------------------------------------------------------------
