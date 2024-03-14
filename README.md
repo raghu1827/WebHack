@@ -99,5 +99,7 @@ Simply open the index.html file in a web browser to view the spinning effect cre
 <h2>
 1.Crypto Bitcoin <br>
 2.RSPACE<br>
-3.TO DO LIST
+3.TO DO LIST<br>
+4.Sipinify Animation
+<br>
 <h2>Authore:RAGHAVENDRA</h2>
