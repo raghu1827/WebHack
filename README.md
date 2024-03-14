@@ -24,7 +24,7 @@
     Background Image: Utilizes a background image to enhance the visual aesthetics.
 
 ----------------------------------------------------------------------------*****------------------------------------------------------------------------------------
-<h1>To-Do List Project</h1>
+<h1>2.To-Do List Project</h1>
 
 ##Description: 
 This project is a simple web-based to-do list application. It allows users to add tasks, mark them as completed, delete tasks, and organize tasks by categories.
@@ -81,10 +81,23 @@ Features
 Contributions to the To-Do List Project are welcome! If you find any bugs or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
 -------------------------------------------------------------------------------*****---------------------------------------------------------------------------------
+<h1>Spinify<h1>
+
+## Description
+Spinify is a simple HTML/CSS project that creates a visually appealing spinning effect using HTML spans and CSS animations. The project consists of concentric circles that rotate in a synchronized manner, giving a dynamic and playful appearance.
+<br>
+## Usage
+Simply open the index.html file in a web browser to view the spinning effect created by the project. You can also customize the colors, sizes, and animation timings by modifying the CSS code in the style.css file.
+<br>
+## Features
+    ->Visually appealing spinning animation.
+    ->Easy to customize and integrate into other projects.
+    ->Responsive design that adapts to different screen sizes.
+-------------------------------------------------------------------------------****---------------------------------------------------------------------------------
 
 #PROJECTS LIST:
 <h2>
 1.Crypto Bitcoin <br>
 2.RSPACE<br>
 3.TO DO LIST
-<h2></h2>
+<h2>Authore:RAGHAVENDRA</h2>
