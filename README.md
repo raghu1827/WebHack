@@ -115,6 +115,7 @@ This Weather App is a simple web application built using HTML, CSS, and JavaScri
 - HTML
 - CSS
 - JavaScript
+<br>
 ------------------------------------------------------------------------*****----------------------------------------------------------------------------------
 
 #PROJECTS LIST:
