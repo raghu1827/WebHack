@@ -26,7 +26,7 @@
 ----------------------------------------------------------------------------*****------------------------------------------------------------------------------------
 <h1>2.To-Do List Project</h1>
 
-##Description: 
+## Description: 
 This project is a simple web-based to-do list application. It allows users to add tasks, mark them as completed, delete tasks, and organize tasks by categories.
 <br><br>
 ##Table of Contents:
@@ -83,7 +83,7 @@ Contributions to the To-Do List Project are welcome! If you find any bugs or hav
 -------------------------------------------------------------------------------*****---------------------------------------------------------------------------------
 <h1>Spinify<h1>
 
-## Description
+## Description:
 Spinify is a simple HTML/CSS project that creates a visually appealing spinning effect using HTML spans and CSS animations. The project consists of concentric circles that rotate in a synchronized manner, giving a dynamic and playful appearance.
 <br>
 ## Usage
@@ -93,11 +93,12 @@ Simply open the index.html file in a web browser to view the spinning effect cre
     ->Visually appealing spinning animation.
     ->Easy to customize and integrate into other projects.
     ->Responsive design that adapts to different screen sizes.
--------------------------------------------------------------------------------****---------------------------------------------------------------------------------
+-------------------------------------------------------------------------------****----------------------------------------------------------------------------------
 <h1>Weather App</h1>
+## Description:
 This Weather App is a simple web application built using HTML, CSS, and JavaScript. It provides real-time weather information for a given city.
 <br>
-## Features
+## Features:
 - Display of current weather information including:
   - Name of the city
   - Date (Month-Year-Date)
@@ -110,7 +111,7 @@ This Weather App is a simple web application built using HTML, CSS, and JavaScri
 2. Enter the name of the city you want to check the weather for in the provided input field.
 3. Press the "Search" button.
 4. The app will retrieve the current weather information for the specified city and display it on the screen.
-<br>
+<br><br>
 ## Technologies Used
 - HTML<br>
 - CSS <br>
