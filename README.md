@@ -112,11 +112,11 @@ This Weather App is a simple web application built using HTML, CSS, and JavaScri
 4. The app will retrieve the current weather information for the specified city and display it on the screen.
 <br>
 ## Technologies Used
-- HTML
-- CSS
-- JavaScript
+- HTML<br>
+- CSS <br>
+- JavaScript 
 <br>
-------------------------------------------------------------------------*****----------------------------------------------------------------------------------
+------------------------------------------------------------------------*****--------------------------------------------------------------------------------------
 
 #PROJECTS LIST:
 <h2>
