@@ -95,9 +95,12 @@ Simply open the index.html file in a web browser to view the spinning effect cre
     ->Responsive design that adapts to different screen sizes.
 -------------------------------------------------------------------------------****----------------------------------------------------------------------------------
 <h1>Weather App</h1>
+<br>
+
 ## Description:
 This Weather App is a simple web application built using HTML, CSS, and JavaScript. It provides real-time weather information for a given city.
-<br>
+<br><br>
+
 ## Features:
 - Display of current weather information including:
   - Name of the city
@@ -105,13 +108,16 @@ This Weather App is a simple web application built using HTML, CSS, and JavaScri
   - Description of weather (e.g., cloudy, sunny, rainy)
   - Wind speed
   - and more
-<br>
+    
+<br><br>
 ## How to Use
 1. Open the `index.html` file in a web browser.
 2. Enter the name of the city you want to check the weather for in the provided input field.
 3. Press the "Search" button.
 4. The app will retrieve the current weather information for the specified city and display it on the screen.
+
 <br><br>
+
 ## Technologies Used
 - HTML<br>
 - CSS <br>
