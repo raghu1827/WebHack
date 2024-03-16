@@ -130,6 +130,7 @@ This Weather App is a simple web application built using HTML, CSS, and JavaScri
 1.Crypto Bitcoin <br>
 2.RSPACE<br>
 3.TO DO LIST<br>
-4.Sipinify Animation
-<br>
+4.Sipinify Animation <br>
+5.Weather App <br>
+    
 <h2>Authore:RAGHAVENDRA</h2>
